@@ -1,6 +1,6 @@
 # Typing, Representing, and Abstracting Control
 
-Idris code accompanying the TyDe '18 paper ["Typing, Representing, and Abstracting Control"](http://localhost:4000/publications/schuster18typing/).
+Idris code accompanying the TyDe '18 paper ["Typing, Representing, and Abstracting Control"](https://dl.acm.org/doi/10.1145/3240719.3241788).
 
 ## Installation
 
